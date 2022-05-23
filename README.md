@@ -1,0 +1,2 @@
+# lib_http
+Android上基于okhttp二次封装的http通讯基础库
