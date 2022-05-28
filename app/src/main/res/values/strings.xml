@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Lucky Garden</string>
+
+    <string name="pet_add">Add Pet</string>
+    <string name="pet_list">Pet List</string>
+
+    <string name="tip_success">Success</string>
+    <string name="tip_token_expire">Please Login</string>
+</resources>
